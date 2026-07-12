@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é uma análise completa de ponta a ponta sobre o volume de vendas, faturamento e satisfação de clientes de um E-Commerce dos EUA. O objetivo principal foi construir uma infraestrutura de dados robusta, saindo de um ficheiro bruto até à construção de um painel de Business Intelligence dinâmico, simulando um ambiente corporativo real.
+Este projeto é uma análise completa de ponta a ponta sobre o volume de vendas, faturamento e satisfação de clientes de um E-Commerce dos EUA. O objetivo principal foi construir uma infraestrutura de dados robusta, saindo de um documento bruto até à construção de um painel de Business Intelligence dinâmico, simulando um ambiente corporativo real.
 
 O grande diferencial deste projeto não é apenas a visualização de dados, mas sim a **Engenharia de Analytics** aplicada, utilizando ferramentas específicas para cada etapa do processo de ETL (Extração, Transformação e Carregamento).
 
@@ -55,7 +55,7 @@ O dashboard revelou as seguintes métricas fundamentais da operação:
 * `README.md`: Documentação e arquitetura geral.
 * `dataset/`: Dataset utilizado do Kaggle, junto ao dataset com a coluna de receita líquida e também um arquivo organizado para o Excel.
 * `python/`: O script `.py` utilizado para o cálculo da Receita.
-* `sql/`: Ficheiro com os scripts de DDL e as `Views` utilizadas para conectar o SQL ao Power BI.
+* `sql/`: Ficheiro com os scripts das `Views` utilizadas para conectar o SQL ao Power BI.
 * `powerbi/`: Todas as tabelas e o dashboard criado dentro do PowerBI.
 * `dashboard/`: Imagens do layout de fundo em alta resolução e prints do relatório concluído.
 
