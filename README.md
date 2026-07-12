@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é uma análise completa de ponta a ponta sobre o volume de vendas, faturamento e satisfação de clientes de um E-Commerce fictício. O objetivo principal foi construir uma infraestrutura de dados robusta, saindo de um ficheiro bruto até à construção de um painel de Business Intelligence dinâmico, simulando um ambiente corporativo real.
+Este projeto é uma análise completa de ponta a ponta sobre o volume de vendas, faturamento e satisfação de clientes de um E-Commerce dos EUA. O objetivo principal foi construir uma infraestrutura de dados robusta, saindo de um ficheiro bruto até à construção de um painel de Business Intelligence dinâmico, simulando um ambiente corporativo real.
 
 O grande diferencial deste projeto não é apenas a visualização de dados, mas sim a **Engenharia de Analytics** aplicada, utilizando ferramentas específicas para cada etapa do processo de ETL (Extração, Transformação e Carregamento).
 
