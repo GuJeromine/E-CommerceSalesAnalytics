@@ -46,7 +46,7 @@ O Power BI foi conectado diretamente às Views do MySQL. O desenvolvimento focou
 O dashboard revelou as seguintes métricas fundamentais da operação:
 
 * **Volume Absoluto:** A empresa gerou um total de **$194 Milhões de Receita Líquida** no período analisado, fruto da venda de **1,01 Milhão** de unidades.
-* **Comportamento Sazonal:** Os maiores picos de vendas ocorrem no último trimestre do ano (Novembro e Dezembro), impulsionados provavelmente pelas festividades e eventos como a Black Friday, atingindo perto dos $19 Milhões num único mês. Nota-se também um forte aquecimento secundário nos meses de Verão (Julho e Agosto).
+* **Comportamento Sazonal:** Os maiores picos de vendas ocorrem no último trimestre do ano (Novembro e Dezembro), impulsionados provavelmente pelas festividades e eventos como a Black Friday, atingindo perto dos $19 Milhões em um único mês. Nota-se também um forte aquecimento secundário nos meses de Verão (Julho e Agosto).
 * **Concentração Geográfica:** A cidade de **Pittsburgh** é o principal mercado (com 21 mil unidades vendidas), seguida de perto por San Francisco e Oklahoma (18 mil).
 * **Satisfação Média:** O catálogo apresenta uma avaliação média de 3,03, sinalizando uma oportunidade clara de revisão de qualidade e produtos nas categorias com pior classificação.
 
